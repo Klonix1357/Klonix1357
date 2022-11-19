@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Klonix1357
 - 👀 I’m interested in programing, gamedev and websites
-- 🌱 I’m currently learning C++, HTML & CSS
-<!--- 💞️ I’m looking to collaborate on ... --->
+- 🌱 I’m currently learning C++, HTML & CSS <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: Discord Klonix#6333
 
 <!---
